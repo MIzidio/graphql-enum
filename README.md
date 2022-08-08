@@ -1,1 +1,1 @@
-
+# GraphQL enum example
